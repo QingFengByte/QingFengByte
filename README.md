@@ -39,3 +39,15 @@ Connect with Me
 
 
 
+
+
+🎧 Spotify Playing
+
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=q2a7hpp24othqktr2xp0iclwt&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=q2a7hpp24othqktr2xp0iclwt&redirect=true)
+
+
+
+![footer.png](https://github.com/Qingfeng-byte/Qingfeng-byte/blob/main/image/Gradients.png)
+<img src="https://github.com/Qingfeng-byte/Qingfeng-byte/blob/main/image/Rainbow.gif" width="100%">

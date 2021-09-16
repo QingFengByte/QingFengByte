@@ -9,7 +9,7 @@
 
 ![header.png](https://github.com/QingFengByte/QingFengByte/blob/main/image/header.png?raw=true)
 
-<img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=Qingfeng-byte&theme=radical&show_icons=true">:sunglasses: About
+<img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=QingFengByte&theme=radical&show_icons=true">:sunglasses: About
 
 I'm QingFengByte is a rookie, loves technology, and is still learning
 

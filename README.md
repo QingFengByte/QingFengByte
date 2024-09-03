@@ -7,6 +7,7 @@
  </a>
 </p>
 
+
 ![header.png](https://github.com/QingFengByte/QingFengByte/blob/main/image/header.png?raw=true)
 
 <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=QingFengByte&theme=radical&show_icons=true">:sunglasses: About
@@ -47,7 +48,7 @@ Connect with Me
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=q2a7hpp24othqktr2xp0iclwt&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=q2a7hpp24othqktr2xp0iclwt&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=q2a7hpp24othqktr2xp0iclwt&cover_image=true&theme=default)](https://spotify-github-profile.kittinanx.com/api/view?uid=q2a7hpp24othqktr2xp0iclwt&redirect=true)
 
 
 
